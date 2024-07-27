@@ -1,0 +1,19 @@
+
+Les Fonctionnalités 
+-------------------
+
+-Système de gestion des rdv.
+        Les rdv seront enregistrer du coté de la sécretaire et le client sera informé un jour avant sa date de rdv par un email.
+
+        Les rdv auront un status pour qu'on puisse savoir lequel est actif, à venir, ou est déja passé.
+
+        Un rdv donnée concerne uniquement un unique patient, un unique Docteur et une date bien définie. (Peut être que les docteurs pourront s'associer pour le traitement mais celà est hors de notre logiquee)
+
+        Un rendez-vous peut débaucher sur une hospitalisation ou une ordonnance(coté Pharmacie) ou alors les deux.
+
+-Système de Pharmacie
+-Système de caisse (paiement)
+
+Un petit correctif.
+-------------------
+Le docteur doit avoir une spécialité qui va faciliter le choix du patient sur la page du site web de l'hopital. Donc inclure plus tard, un système de spécialité pour les employers.
